@@ -1,0 +1,33 @@
+#header{
+    font-size: 20px;
+    text-align: center;
+    background-color: bisque;
+    height: 40px;
+}
+#header a{
+    vertical-align: middle;
+}
+#mMenu{
+    margin-left: 10px;
+    list-style-type: none;
+    float: left;
+}
+#mMenu a{
+    margin-right: 20px;
+}
+#login{
+    float: right;
+    margin-right: 10px;
+}
+#footer{
+    color: #ffffff;
+    text-align: center;
+    background-color: darkslategrey;
+}
+table{
+    margin: 0 auto;
+}
+
+.selected a{
+    color: red;
+}
